@@ -1,0 +1,19 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "this is the test package to check how to publish npm module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devendrachhaiya/testpackage.git"
+  },
+  "author": "Devendra Chhaiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devendrachhaiya/testpackage/issues"
+  },
+  "homepage": "https://github.com/devendrachhaiya/testpackage#readme"
+}
